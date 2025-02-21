@@ -23,7 +23,6 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishs12&show_icons=true&theme=highcontrast&title_color=c5cdf7&locale=en&layout=compact" alt="kavishs12" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavishs12&show_icons=true&theme=highcontrast&title_color=c5cdf7&locale=en" alt="kavishs12" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishs12&theme=highcontrast" alt="kavishs12" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kavishs12&icon=1&color=9)](https://visitcount.itsvg.in)
