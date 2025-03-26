@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavishs12&show_icons=true&theme=highcontrast&title_color=c5cdf7&locale=en" alt="kavishs12" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kavishs12&icon=1&color=9)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KavishS12&label=Profile%20views&color=0e75b6&style=flat" alt="KavishS12" /> </p>
