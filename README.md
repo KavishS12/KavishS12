@@ -9,7 +9,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/kavish-shah-21a7531b0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kavish-shah-21a7531b0/" height="20" width="30" /></a>
-<a href="https://instagram.com/kavishh08_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavishh08_" height="20" width="30" /></a>
 <a href="https://www.leetcode.com/KavishS12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavishs12" height="20" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kavishs12890" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kavishs12" height="20" width="30" /></a>
 </p>
