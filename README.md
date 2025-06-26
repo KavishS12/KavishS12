@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kavish</h1>
-<h3>I am a 3rd year student pursuing Computer Science with a specialization in AIML from MIT Manipal.</h3>
+<h3>I am a final year student pursuing B.Tech in Computer Science with a specialization in AIML from MIT Manipal.</h3>
 
 🔭 I’m currently working on **DSA, Machine Learning and Web development.**
 <br>🌱 I’m currently learning **backend development with a focus on MERN Stack.**
